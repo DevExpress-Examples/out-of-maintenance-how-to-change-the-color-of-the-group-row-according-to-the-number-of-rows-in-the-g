@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication4", "WebSite\WebApplication4.csproj", "{646525E3-0E5D-4C14-ABF4-D0CC630D479A}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646525E3-0E5D-4C14-ABF4-D0CC630D479A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646525E3-0E5D-4C14-ABF4-D0CC630D479A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646525E3-0E5D-4C14-ABF4-D0CC630D479A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646525E3-0E5D-4C14-ABF4-D0CC630D479A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
