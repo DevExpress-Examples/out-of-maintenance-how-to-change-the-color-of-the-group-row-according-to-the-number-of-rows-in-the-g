@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to change the color of the group row according to the number of rows in the group
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1185/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to change the back color of the group row according to the number of rows in the current group</p>
